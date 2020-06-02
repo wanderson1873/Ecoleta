@@ -108,10 +108,6 @@ posicionamento, alinhamento
     background-color: var(--primary-color);
 
     transition: 400ms;
-
-    font-weight: 700;
-
-    color: #fff;
 }
 
 #page-home main a:hover {
@@ -141,9 +137,34 @@ posicionamento, alinhamento
 }
 
 #page-home main a strong {
-    color #fff;
+    flex: 1;
+    color: #fff;
+    text-align: center;
 }
 
+
+@media (max-width: 900px){
+    #page-home {
+        background-position-x: 70vw;
+    }
+
+    #page-home .content{
+        align-items: center;
+        text-align: center;
+    } 
+
+    #page-home header a {
+        position: absolute;
+        bottom: 48px;
+
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #page-home main {
+        align-items: center;
+    }
+}
 
 
 

@@ -101,7 +101,7 @@ form button  {
     width: 260px;
     height: 56px;
 
-    background-color: #000;
+    background-color:var(--primary-color);
     border-radius: 8px;
 
     color: #fff;
@@ -111,4 +111,10 @@ form button  {
     border: 0;
 
     margin-top: 40px;
+
+    transition: 400ms;
+}
+
+form button:hover {
+    background-color: #2fb86e;
 }

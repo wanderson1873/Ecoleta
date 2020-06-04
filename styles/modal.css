@@ -21,7 +21,9 @@
 
 }
 
-#modal.hide
+#modal.hide {
+    display: none;
+}
 
 #modal .header {
     display: flex;
@@ -55,6 +57,7 @@
 
     display: block;
     margin-bottom: 8px;
+    margin-top: 30px;
 }
 
 #modal form .field {

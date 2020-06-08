@@ -2,11 +2,12 @@
 O website tem como objetivo encontar empresas que faz a coleta de resíduos.
 
 ## Tecnologias
-- HTML
+- HTML5
 - CSS
 - JavaScript
-- NodeJS
+- Node.js
 - SQLite
+- Nunjucks
 
 ## 
 

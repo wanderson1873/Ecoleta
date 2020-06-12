@@ -7,16 +7,16 @@
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 
-- Uma imagem da empresa
-- Nome da entidade
-- Endereço da entidade
-- Além de selecionar um ou mais ítens de coleta:
-lâmpadas
-pilhas e baterias
-papéis e papelão
-resíduos eletrônicos
-resíduos orgânicos
-óleo de cozinha
+* Uma imagem da empresa
+* Nome da entidade
+* Endereço da entidade
+* Além de selecionar um ou mais ítens de coleta:
+    * lâmpadas
+    * pilhas e baterias
+    * papéis e papelão
+    * resíduos eletrônicos
+    * resíduos orgânicos
+    * óleo de cozinha
 
 Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela Rocketseat. O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 

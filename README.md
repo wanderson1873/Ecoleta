@@ -34,3 +34,7 @@ O projeto foi desenvolvido com as seguintes tecnologia
 - [Nunjunks](https://mozilla.github.io/nunjucks/)
 - [Node.js](https://nodejs.org/)
 
+
+---
+
+Feito com :purple_heart: by [Wanderson Oliveira](https://github.com/wanderson1873)
